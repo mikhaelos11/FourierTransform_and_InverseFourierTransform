@@ -1,1 +1,1 @@
-In this repository I will add codes for basic operations in the audio signal processing domain,
+This code gets into turning from time domain to frequency domain of the audio signals and vice versa, using Fourier Transform and Inverse Fourier Transform. The audio track used is a C#5 note, rated at 523 Hz
